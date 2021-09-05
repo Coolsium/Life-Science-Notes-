@@ -1,5 +1,5 @@
 # Life-Science-Notes-
-I hope theses notes would serve you well for your upcoming mid year examinations !!! Good luck !!!
+I hope theses notes would serve you well for your upcoming final year examinations !!! Good luck !!!
 
 
 Enzymes 
@@ -205,4 +205,143 @@ How the water moves up the xylem
 - Root pressure - low potential of cell sap. Water entering RHC forces water up the xylem so that new water can come in, partially responsible 
 - Capillary action - caused by adhesion and surface tension
                                         - water adheres to the xylem vessels 
+
+# Nutrition in Man
+Carbohydrates 
+50-60% of diet 
+Sources: rice, noodles, bread and potato
+Importance     —1g of carb releases 16kJ of energy 
+               — form nucleic acids such as deoxyribose sugar in DNA
+			         — synthesise lubricants such as mucus
+Elements present - Carbon, Hydrogen, Oxygen
+
+Monosaccharides - glucose, lactose, fructose — all C6H12O6 but the different structures and different atomic arrangement in them give different properties 
+
+2 simple sugars form a disaccharide
+Glucose + glucose —> maltose: malt sugar GGM    ——|
+Glucose + fructose —> sucrose: cane sugar GFS.   ——|——> C12H2O11
+Glucose + galactose —> lactose: milk sugar GGL.  ——|
+
+Many monosaccharides or disaccharides form a polysaccharide
+Starch - maltose + maltose…
+Cellulose - lactose + lactose…
+Glycogen - complex… 
+
+Fats 
+30% of diet — body can synthesise most of the fats eg cholesterol 
+1 tbsp of polyunsaturated fat which contains essential fatty acid — linoleic acid
+Saturated fats raise blood cholesterol level 
+Must have enough amount of cholesterol 
+Sources: butter, fatty meat, nuts 
+1g of fats release 32kJ of energy 
+Importance — subcutaneous insulating material, reduces heat loss
+Esp. in sea animal as hair is not good heat insulator
+
+Elements - CHO
+Contains proportionally little oxygen 
+One glycerol and three fatty acid 
+	eg. 1 glycerol and 3 stearic acid —> tristearin — beef fat
+
+Proteins 
+12% of diet 
+Proteins break down into amino acid 
+20 amino acids, 8 essential as they cannot be synthesized by our body 
+	-cysteine
+	-isoleucine
+	-leucine
+	-lycine
+	- phenylalanine 
+	-threonine
+	-tryptophan
+	-valine
+
+Animal proteins contain lots of essential amino acids but not plant proteins 
+
+Source: Lean meat, fish, milk, eggs, beans, peas
+Importance - essential for growth of worn body cells
+		     - produce hormones and enzymes
+		     - produce antibodies 
+
+Elements: CHON
+R group which may contain - Sulphur
+
+Amino acids are joined by peptide bonds to form peptides —>polypeptides 
+Protein molecule is formed when the polypeptide is twisted into a long 3d structure. 
+
+Vitamins and mineral 
+Small amounts are required
+Body needs 13 vitamins for metabolism 
+Vitamins are organic substances while minerals are inorganic substances
+VITAMIN C	Oranges and papaya 	 - Maintaining healthy epithelial tissues  	Scurvy - swollen gums, loosening of teeth, haemorrhages, poor healing of wounds, painful joints
+Vitamin D	Egg yolk and milk, exposure to sunlight	Promotes absorption of calcium and phosphorus 	Poor bone and teeth formation —> rickets 
+CALCIUM	MILK, EGGS	BLOOD CLOT, BUILDING BONES AND TEETH	RICKETS
+IRON	Egg yolk, bread	Produce haemoglobin, myoglobin	Nutritional Anaemia- tiredness and breathlessness, haemoglobin level lowered.
+								
+Dietary fibre
+Indigestible part of plant 
+Comes from cellulose in the call wall
+Sources: fresh fruits and vegetables, wholemeal bread
+Importances	—provides bulk to the intestinal contents 
+			—helps peristalsis; food is churned and mixed with the digestive juices properly  
+Deficiency: constipation - had and dry faeces, hard to pass out
+
+Because with low fibre, indigestible matter would move slower in the digestive system. Thus, too much water would be absorbed resulting in hard and dry faeces. To prevent: eat fibre, drink water, exercise regularly 
+
+Water
+Important for life essential constituent of the protoplasm 
+Water makes up 70% of a mammal.
+Sources; drinks and soups
+Importances
+Major constituents of digestive juices
+Solvent of salts and other organic compounds in the body
+transported materials such as digested foods, excretory products, hormones around the body 
+
+
+
+
+
+
+
+
+
+Food Test 
+Allows qualitative measurements of nutrients in food, except test for reducing sugars, which turns different colours relative to the amount nutrient is present. 
+
+
+
+Test Starch (Iodine)
+1. 2 drops of iodine to 2cm3 of sample solution 
+2. Colour change: yellow-brown colour, if absent; blue black if present
+
+Test for Lipids
+1. One drop of sample to dry test tube 
+2. Add 2cm3 of ethanol, shake thoroughly 
+3. Add 2cm3 of water 
+4. Observe results: if mixture remains clear, no lipids are present; if there is a milky white emulsion, fats present 
+
+1. For a solid sample, cut it up, add 2cm3 of ethanol, shake and decant ethanol then add water
+
+
+Test for reducing sugars
+1. To 2cm3 of sample, add 2cm3 of Benedict’s solution 
+2. Shake
+3. Put in boiling water bath, 2mins
+4. Observe: if remains blue on heating, absent; if orange-red precipitate is formed, present
+5. Quantitative measurement: green; small amount, yellow; moderate; orange-red; a lot 
+
+Benedict’s solution is blue as it has Cu2+ salts, reducing sugar is able to reduce the valency to Cu+
+Reducing sugars are everything except sucrose 
+
+
+
+
+Test for Proteins (Biuret’s Test)
+1. 2cm3 of sample solution to a clean test tube 
+2. 1cm of sodium hydroxide, shake thoroughly 
+3. Add  1% copper(II) sulphate drop by drop, shake after each drop 
+4. Observe colour change: mixture remains blue, proteins are absent 
+5. Violet or lilac coloration observed, proteins are present 
+
+
+
 
